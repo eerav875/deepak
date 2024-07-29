@@ -1,0 +1,1 @@
+Daemon Set is used when we need to ensure that a specific type of pod runs on every node in our Kubernetes cluster.For example, we want to deploy a monitoring agent,logging agent and security agent that collect data from all nodes,taht require node-level visibility
